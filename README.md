@@ -14,4 +14,4 @@ python3 3_train.py
 python3 4_play.py
 ```
 
-or use [worability-www](https://github.com/nksoff/wordability-www).
+or use [wordability-www](https://github.com/nksoff/wordability-www).
